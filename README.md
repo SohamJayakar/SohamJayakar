@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SohamJayakar
 - 👀 I’m interested in gaming and other programming stuffs.
-- 🌱 I’m currently learning C/C++ language.
+- 🌱 I’m currently learning Python language and their libraries.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : - Email : sohamjayakar@gmail.com.
 
