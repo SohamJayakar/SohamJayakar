@@ -6,7 +6,7 @@
 
 🔭 Currently exploring Python, AI, and Game Development.
 
-📫 Reach me at: sohamjayakar@gmail.com | linkedin.com/in/soham-jayakar
+📫 Reach me at: sohamjayakar@gmail.com | [linkedin.com/in/soham-jayakar](https://www.linkedin.com/in/soham-jayakar-490415249/)
 
 👾 Check out my projects on GitHub: github.com/SohamJayakar
 
